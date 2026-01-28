@@ -1,6 +1,6 @@
 # Hi, I'm Dmitrii Valuev👋
 
-📱 I'm a Senior iOS Engineer at Simple
+📱 I'm a Founding iOS Engineer at Stealth Startup
 
 🛠️ Building Innovative Solutions and Exploring New Technologies 🚀
 
